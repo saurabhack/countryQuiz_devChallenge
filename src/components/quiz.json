@@ -1,0 +1,94 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": [
+        {"text": "Paris", "correct": true},
+        {"text": "Lyon", "correct": false},
+        {"text": "Marseille", "correct": false},
+        {"text": "Nice", "correct": false}
+      ]
+    },
+    {
+      "question": "Which country does this flag belong to?",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+      "options": [
+        {"text": "Spain", "correct": false},
+        {"text": "Italy", "correct": true},
+        {"text": "Ireland", "correct": false},
+        {"text": "Mexico", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the population of Canada (approx.)?",
+      "options": [
+        {"text": "38 million", "correct": true},
+        {"text": "60 million", "correct": false},
+        {"text": "22 million", "correct": false},
+        {"text": "45 million", "correct": false}
+      ]
+    },
+    {
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": [
+        {"text": "China", "correct": false},
+        {"text": "Thailand", "correct": false},
+        {"text": "Japan", "correct": true},
+        {"text": "South Korea", "correct": false}
+      ]
+    },
+    {
+      "question": "What is the currency of Australia?",
+      "options": [
+        {"text": "Dollar", "correct": true},
+        {"text": "Euro", "correct": false},
+        {"text": "Pound", "correct": false},
+        {"text": "Rupee", "correct": false}
+      ]
+    },
+    {
+      "question": "Which country has the largest land area?",
+      "options": [
+        {"text": "Canada", "correct": false},
+        {"text": "Russia", "correct": true},
+        {"text": "China", "correct": false},
+        {"text": "USA", "correct": false}
+      ]
+    },
+    {
+      "question": "Which continent is Brazil located in?",
+      "options": [
+        {"text": "Asia", "correct": false},
+        {"text": "Europe", "correct": false},
+        {"text": "South America", "correct": true},
+        {"text": "Africa", "correct": false}
+      ]
+    },
+    {
+      "question": "Which of these countries has the smallest population?",
+      "options": [
+        {"text": "Monaco", "correct": false},
+        {"text": "Liechtenstein", "correct": false},
+        {"text": "San Marino", "correct": false},
+        {"text": "Vatican City", "correct": true}
+      ]
+    },
+    {
+      "question": "What is the official language of Brazil?",
+      "options": [
+        {"text": "Spanish", "correct": false},
+        {"text": "Portuguese", "correct": true},
+        {"text": "French", "correct": false},
+        {"text": "Italian", "correct": false}
+      ]
+    },
+    {
+      "question": "Which country is home to the Great Barrier Reef?",
+      "options": [
+        {"text": "Australia", "correct": true},
+        {"text": "New Zealand", "correct": false},
+        {"text": "South Africa", "correct": false},
+        {"text": "Canada", "correct": false}
+      ]
+    }
+  ]
+  
